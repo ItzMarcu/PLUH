@@ -11,6 +11,12 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+section {
+    align-items: center;
+    justify-content: center;
+    padding-top: 20vh;
+}
+
 img#button {
     width: 30vh;
 }
